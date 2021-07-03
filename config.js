@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Chần chừ gì chồng ơi em đây 😘😘',
     messDesc: 'Luv U <3.',
     btnAccept: 'Oki bae <3',
-    messLink:  'https://linh.blue.07'
+    messLink: 'https://linh.blue.07'
 }
